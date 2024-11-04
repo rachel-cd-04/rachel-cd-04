@@ -10,7 +10,7 @@
   <br> Hi! <br>
   I'm Raquel, a student of computer engineering at the University of Zaragoza (UNIZAR), Spain. <br>
   Some of the things I like are: <br> <br>
-  - Coding 📡 -  Videogames 🎮 -  Reading 📚 -  The color green 🐸 -  Animals 🐶 - <br> <br>
+  - Coding 📡 -  Reading 📚 -  Animals 🐶 - <br> <br>
 </div>
 
 <div id="header" align="center">
