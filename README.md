@@ -23,6 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/rachel-cd-04/rachel-cd-04/blob/main/arm-logo.png" title="ARM" alt="ARM" width="50" height="50"/>&nbsp;
 </div>
 
 ### 🔨 Tools I use:
