@@ -1,5 +1,5 @@
 ## 👋 This is @Rachel!
-[![email](https://img.shields.io/badge/-rcamaradomene@gmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:raquelcamarad@gmail.com)
+[![email](https://img.shields.io/badge/-raquelcamarad@gmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:raquelcamarad@gmail.com)
 
 ### 👨‍💻 About Me:
 
